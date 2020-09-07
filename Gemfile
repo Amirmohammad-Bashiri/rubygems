@@ -36,3 +36,6 @@ group :test do
   gem 'selenium-webdriver'
   gem 'webdrivers'
 end
+
+gem 'bootstrap', '~> 4.5', '>= 4.5.2'
+gem 'jquery-rails', '~> 4.4'
