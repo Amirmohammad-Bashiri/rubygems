@@ -40,3 +40,4 @@ end
 gem 'bootstrap', '~> 4.5', '>= 4.5.2'
 gem 'jquery-rails', '~> 4.4'
 gem 'font-awesome-sass', '~> 5.13'
+gem 'simple_form', '~> 5.0', '>= 5.0.2'
