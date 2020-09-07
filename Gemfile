@@ -39,3 +39,4 @@ end
 
 gem 'bootstrap', '~> 4.5', '>= 4.5.2'
 gem 'jquery-rails', '~> 4.4'
+gem 'font-awesome-sass', '~> 5.13'
